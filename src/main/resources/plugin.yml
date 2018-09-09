@@ -1,0 +1,6 @@
+name: WorldRequirements
+version: ${project.version}
+main: me.glaremasters.worldrequirements.Worldrequirements
+authors: [blockslayer22]
+description: WorldRequirements
+website: https://glaremasters.me/discord
